@@ -46,14 +46,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         'fB9Q4Ld[22(#WPSALT');
-define('SECURE_AUTH_KEY',  'WfB9Q4Ld[22(#PSALT');
-define('LOGGED_IN_KEY',    'WPfB9Q4Ld[22(#SALT');
-define('NONCE_KEY',        'WPSfB9Q4Ld[22(#ALT');
-define('AUTH_SALT',        'WPSAfB9Q4Ld[22(#LT');
-define('SECURE_AUTH_SALT', 'WPSALfB9Q4Ld[22(#T');
-define('LOGGED_IN_SALT',   'WPSALTfB9Q4Ld[22(#');
-define('NONCE_SALT',       'fB9Q4Ld[22(#WPSALT');
+define('AUTH_KEY',         'fB9Q4Ld[22(WPSALT');
+define('SECURE_AUTH_KEY',  'WfB9Q4Ld[22(PSALT');
+define('LOGGED_IN_KEY',    'WPfB9Q4Ld[22(SALT');
+define('NONCE_KEY',        'WPSfB9Q4Ld[22(ALT');
+define('AUTH_SALT',        'WPSAfB9Q4Ld[22(LT');
+define('SECURE_AUTH_SALT', 'WPSALfB9Q4Ld[22(T');
+define('LOGGED_IN_SALT',   'WPSALTfB9Q4Ld[22(');
+define('NONCE_SALT',       'fB9Q4Ld[22(WPSALT');
 
 /**#@-*/
 
